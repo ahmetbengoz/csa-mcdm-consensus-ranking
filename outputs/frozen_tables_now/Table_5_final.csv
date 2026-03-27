@@ -1,0 +1,4 @@
+aggregation_rule,baseline,spearman_vs_csa,kendall_vs_csa,top10_overlap_with_csa,interpretation
+CSA,csa_rank,1.0,1.0,10,Reference consensus ranking produced by reliability-weighted score integration.
+Borda Count,borda_rank,0.9878404781272512,0.9133896629421296,8,Ordinal rank-only aggregation; expected to diverge from CSA due to compression of value gaps.
+Mean normalized score,mean_score_rank,0.9875566399442314,0.9122295805739514,8,Score-space aggregation; closer to CSA but does not incorporate reliability weighting.
