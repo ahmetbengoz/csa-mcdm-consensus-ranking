@@ -1,0 +1,5 @@
+scenario_name,scenario_type,n_removed,spearman_vs_base,kendall_vs_base,top10_overlap_with_base,mean_rank_shift,max_rank_shift
+remove_top1,rank_reversal,1,0.9995982043646385,0.9876510067114093,9,1.28,4.0
+remove_top5,rank_reversal,5,0.9995642659520116,0.9869626830420406,10,5.0,8.0
+remove_bottom5,rank_reversal,5,0.9995681220055336,0.9871516296646197,9,0.8082191780821918,3.0
+remove_random10,rank_reversal,10,0.9996232715441586,0.9880445795339412,9,5.333333333333333,12.0
