@@ -1,0 +1,11 @@
+metric_group,item,value
+reliability_weight,Entropy,0.3196367027222334
+reliability_weight,WASPAS,0.339885275434575
+reliability_weight,PROMETHEE,0.3404780218431917
+rmse_vs_csa,Entropy,0.3222202165310241
+rmse_vs_csa,WASPAS,0.3061124390496349
+rmse_vs_csa,PROMETHEE,0.6073456476683949
+spearman_vs_csa,Entropy,0.8510421749738584
+spearman_vs_csa,WASPAS,0.9875426978041127
+spearman_vs_csa,PROMETHEE,0.9973719065876612
+csi,reported_csi,0.7909933774834437
