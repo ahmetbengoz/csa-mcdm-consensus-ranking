@@ -22,7 +22,6 @@ The repository is designed to reproduce the tables and figures reported in the m
 csa-mcdm-consensus-ranking/
 ├─ README.md
 ├─ LICENSE
-├─ CITATION.cff
 ├─ requirements.txt
 ├─ environment.yml
 ├─ .gitignore
