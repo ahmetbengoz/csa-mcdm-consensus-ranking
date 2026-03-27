@@ -1,0 +1,8 @@
+﻿alternative_id,CO2_kg,EPBT_yr,Cost_per_W,Degradation_pct_per_yr,Warranty_yr,Lifespan_yr,Efficiency_pct,Tcoef_pct_per_C,Weight_kg_per_m2,LIP
+PV-Mcs,600,1.1,1.25,0.5,27.5,27.5,21,0.35,13,3
+PV-Pcs,600,1.1,0.85,0.7,27.5,27.5,16,0.45,13,2
+PV-Prc,600,1.1,0.485,0.4,25,27.5,21,0.35,13,3
+PV-Thf,300,0.6,0.6,0.2,22.5,22.5,12.5,0.28,14,4
+PV-Hjt,600,0.94,1.2,0.3,30,27.5,24,0.25,17,5
+PV-Tpc,600,1.1,0.33,0.4,25,25,23,0.3,15,5
+PV-Bfmc,650,1.1,1.35,0.5,30,25,21,0.35,20,5
