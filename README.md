@@ -30,14 +30,14 @@ csa-mcdm-consensus-ranking/
 │  ├─ raw/
 │  │  ├─ CSA_Supplementary_Illustrative.xlsx
 │  │  └─ pv_external_matrix.csv
-│  ├─ processed/
-│  │  ├─ metadata.json
-│  │  ├─ criteria_master.csv
-│  │  ├─ subcriteria_master.csv
-│  │  ├─ alternatives_master.csv
-│  │  ├─ alternative_scores_long.csv
-│  │  ├─ method_outputs_master.csv
-│  │  └─ reliability_weights_master.csv
+├─ processed/
+│  ├─ metadata.json
+│  ├─ criteria_master.csv
+│  ├─ subcriteria_master.csv
+│  ├─ alternatives_master.csv
+│  ├─ alternative_scores_long.csv
+│  ├─ method_outputs_master.csv
+│  └─ reliability_weights_master.csv
 ├─ scripts/
 │  ├─ audit_now.py
 │  ├─ build_inputs_now.py
